@@ -1,6 +1,8 @@
 # Welcome to my Github Profile!
 ## About Me
-I am a rising 10th grader attending Geffen Academy. I have experience with C#, C++, and Python, some web development experience, as well as some other backend experience.
+ - Experience with C#, C++, Python, OpenCV, and PyTorch.
+ - Current High Schooler at Geffen Academy
+ - Learning About Computer Archetecture, Machine Learning, and Data Science.
 <!--
 **TTong519/TTong519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
