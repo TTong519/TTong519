@@ -1,5 +1,6 @@
-## Welcome to my Github Profile!
-
+# Welcome to my Github Profile!
+## About Me
+I am a rising 10th grader attending Geffen Academy. I have experience with C#, C++, and Python, some web development experience, as well as some other backend experience.
 <!--
 **TTong519/TTong519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
