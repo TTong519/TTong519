@@ -17,6 +17,6 @@ I am currently learning about SQL, servers, and ML techniques.
 
 ## My toolbox
 
-[![Git commit history](https://img.shields.io/badge/Git-commits-185a48?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TTong519/RobustnessSF/commits) [![Markdown project README](https://img.shields.io/badge/Markdown-README-40516c?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/TTong519/TTong519#readme) [![Python project](https://img.shields.io/badge/Python-project-703d68?style=for-the-badge&logo=python&logoColor=white)](<https://github.com/TTong519/RobustnessSF>) [![](https://komarev.com/ghpvc/?username=TTong519&style=for-the-badge)]
+[![Git commit history](https://img.shields.io/badge/Git-commits-185a48?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TTong519/RobustnessSF/commits) [![Markdown project README](https://img.shields.io/badge/Markdown-README-40516c?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/TTong519/TTong519#readme) [![Python project](https://img.shields.io/badge/Python-project-703d68?style=for-the-badge&logo=python&logoColor=white)](<https://github.com/TTong519/RobustnessSF>) ![](https://komarev.com/ghpvc/?username=TTong519&style=for-the-badge)
 
 [![Last commit to RobustnessSF](https://img.shields.io/github/last-commit/TTong519/RobustnessSF?style=flat-square&logo=github)](https://github.com/TTong519/RobustnessSF/commits) · [See commit history](https://github.com/TTong519/RobustnessSF/commits)
