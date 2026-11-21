@@ -7,7 +7,7 @@
 ## Featured project
 [Reinforcement Learning Robustness SF](<https://github.com/TTong519/RobustnessSF>)
 
-I used [tool] to [what you personally did]. The result was [something a visitor can verify].
+I used PyBullet and Stable Baselines 3 to train a RL model to control a robotic arm. I then tested the robustness of the RL model in a variety of situations.
 
 ## Tools I’ve used
 - Markdown: I organized a README with headings and links.
@@ -17,7 +17,7 @@ I used [tool] to [what you personally did]. The result was [something a visitor 
 [Name a class, club, competition, or team project. Say what you personally contributed, credit collaborators, and link an example you can share.]
 
 ## What I’m learning next
-[One specific next step and why you want to try it.]
+I am currently learning about SQL, servers, and ML techniques.
 
 ## My toolbox
 
