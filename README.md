@@ -23,6 +23,6 @@ I am currently learning about SQL, servers, and ML techniques.
 
 ## My Stats
 
-[![Tyler's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TTong519&theme=radical&count_private=true&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TTong519&theme=holi&count_private=true&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tyler's GitHub stats](https://github-stats-extended.vercel.app/api?username=TTong519&theme=radical&count_private=true&show_icons=true&contribs_include_own_repos=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's GitHub stats](https://github-stats-extended.vercel.app/api?username=TTong519&theme=holi&count_private=true&show_icons=true&contribs_include_own_repos=true)](https://github.com/anuraghazra/github-readme-stats)
